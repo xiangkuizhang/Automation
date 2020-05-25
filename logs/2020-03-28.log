@@ -1,0 +1,2 @@
+2020-03-28 23:46:28,323 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '登录功能测试', 'TC_ID': 'TC_Login', '是否运行': 'y', '备注': '登录功能测试'}]
+2020-03-28 23:46:28,333 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'TC_Login', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '登录失败', '测试数据': 'username=13718418220,password=123456', '期望结果': '错误'}]]

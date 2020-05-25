@@ -1,0 +1,4 @@
+INFO     start_Appium:StartAppium.py:73 获取的udid:["b'emulator-5554"],
+INFO     start_Appium:StartAppium.py:19 prot 4723 is not used
+INFO     start_Appium:StartAppium.py:37 启动成功，启动参数：host为127.0.0.1,port为4723,bpport为4724,udid为emulator-5554
+INFO     start_Appium:StartAppium.py:16 port 4723 is used

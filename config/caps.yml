@@ -1,0 +1,8 @@
+platformName: 'Android'
+platformVersion: '6.0.1'
+deviceName: 'V9'
+appPackage: 'com.baidu.searchbox'
+appActivity: 'com.baidu.searchbox.MainActivity'
+unicodeKeyboard: True
+resetKeyboard: True
+#automationName: 'uiautomator2'

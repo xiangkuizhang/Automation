@@ -1,0 +1,73 @@
+2020-04-14 12:37:44,292 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'HomePage', '是否运行': 'y', '备注': '首页'}]
+2020-04-14 12:37:44,327 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[{'TC_ID': 'HomePage', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': '', '描述': '首页', '备注': '首页'}]
+2020-04-14 12:40:09,204 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'HomePage', '是否运行': 'y', '备注': '首页'}]
+2020-04-14 12:40:09,212 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[{'TC_ID': 'HomePage', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': '', '描述': '首页', '备注': '首页'}]
+2020-04-14 12:40:23,326 -TestKeyword -INFO -执行用例内容:{'TC_ID': 'HomePage', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': '', '描述': '首页', '备注': '首页'}
+2020-04-14 12:40:23,347 -operate -DEBUG -执行步骤:{'TC_ID': 'HomePage', '步骤ID': 'TS001', '步骤名称': '点击允许', '操作': 'click', '元素名称': 'Baidu', '数据': ''}
+2020-04-14 12:40:23,355 -operate -DEBUG -元素信息:{'TC_ID': 'HomePage', '元素名称': 'Baidu', '定位类型': 'id', '元素信息': 'com.android.packageinstaller:id/permission_allow_button'}
+2020-04-14 12:40:23,358 -operate -DEBUG -该关键字是:click_btn
+2020-04-14 12:40:24,171 -operate -DEBUG -执行步骤:{'TC_ID': 'HomePage', '步骤ID': 'TS002', '步骤名称': '点击允许', '操作': 'click', '元素名称': 'Baidu1', '数据': ''}
+2020-04-14 12:40:24,171 -operate -DEBUG -元素信息:{'TC_ID': 'HomePage', '元素名称': 'Baidu1', '定位类型': 'id', '元素信息': 'com.android.packageinstaller:id/permission_allow_button'}
+2020-04-14 12:40:24,172 -operate -DEBUG -该关键字是:click_btn
+2020-04-14 12:40:25,623 -operate -DEBUG -执行步骤:{'TC_ID': 'HomePage', '步骤ID': 'TS003', '步骤名称': '点击我的', '操作': 'click', '元素名称': 'Baidu2', '数据': ''}
+2020-04-14 12:40:25,623 -operate -DEBUG -元素信息:{'TC_ID': 'HomePage', '元素名称': 'Baidu2', '定位类型': 'id', '元素信息': 'com.android.packageinstaller:id/permission_allow_button'}
+2020-04-14 12:40:25,624 -operate -DEBUG -该关键字是:click_btn
+2020-04-14 12:40:26,998 -operate -DEBUG -执行步骤:{'TC_ID': 'HomePage', '步骤ID': 'TS004', '步骤名称': '搜索', '操作': 'text', '元素名称': 'Home_input', '数据': 'send'}
+2020-04-14 12:40:26,999 -operate -DEBUG -元素信息:{'TC_ID': 'HomePage', '元素名称': 'Home_input', '定位类型': 'id', '元素信息': 'com.baidu.searchbox:id/baidu_searchbox'}
+2020-04-14 12:40:27,000 -operate -DEBUG -该关键字是:send_keys
+2020-04-14 12:40:52,738 -TestKeyword -INFO -执行用例内容:{'TC_ID': 'HomePage', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': '', '描述': '首页', '备注': '首页'}
+2020-04-14 12:40:52,739 -operate -DEBUG -执行步骤:{'TC_ID': 'HomePage', '步骤ID': 'TS001', '步骤名称': '点击允许', '操作': 'click', '元素名称': 'Baidu', '数据': ''}
+2020-04-14 12:40:52,739 -operate -DEBUG -元素信息:{'TC_ID': 'HomePage', '元素名称': 'Baidu', '定位类型': 'id', '元素信息': 'com.android.packageinstaller:id/permission_allow_button'}
+2020-04-14 12:40:52,740 -operate -DEBUG -该关键字是:click_btn
+2020-04-14 12:40:53,545 -operate -DEBUG -执行步骤:{'TC_ID': 'HomePage', '步骤ID': 'TS002', '步骤名称': '点击允许', '操作': 'click', '元素名称': 'Baidu1', '数据': ''}
+2020-04-14 12:40:53,545 -operate -DEBUG -元素信息:{'TC_ID': 'HomePage', '元素名称': 'Baidu1', '定位类型': 'id', '元素信息': 'com.android.packageinstaller:id/permission_allow_button'}
+2020-04-14 12:40:53,546 -operate -DEBUG -该关键字是:click_btn
+2020-04-14 12:40:54,815 -operate -DEBUG -执行步骤:{'TC_ID': 'HomePage', '步骤ID': 'TS003', '步骤名称': '点击我的', '操作': 'click', '元素名称': 'Baidu2', '数据': ''}
+2020-04-14 12:40:54,815 -operate -DEBUG -元素信息:{'TC_ID': 'HomePage', '元素名称': 'Baidu2', '定位类型': 'id', '元素信息': 'com.android.packageinstaller:id/permission_allow_button'}
+2020-04-14 12:40:54,816 -operate -DEBUG -该关键字是:click_btn
+2020-04-14 12:40:56,302 -operate -DEBUG -执行步骤:{'TC_ID': 'HomePage', '步骤ID': 'TS004', '步骤名称': '搜索', '操作': 'text', '元素名称': 'Home_input', '数据': 'send'}
+2020-04-14 12:40:56,302 -operate -DEBUG -元素信息:{'TC_ID': 'HomePage', '元素名称': 'Home_input', '定位类型': 'id', '元素信息': 'com.baidu.searchbox:id/baidu_searchbox'}
+2020-04-14 12:40:56,303 -operate -DEBUG -该关键字是:send_keys
+2020-04-14 12:59:48,764 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'HomePage', '是否运行': 'y', '备注': '首页'}]
+2020-04-14 12:59:48,774 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[{'TC_ID': 'HomePage', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': '', '描述': '首页', '备注': '首页'}]
+2020-04-14 13:00:05,439 -TestKeyword -INFO -执行用例内容:{'TC_ID': 'HomePage', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': '', '描述': '首页', '备注': '首页'}
+2020-04-14 13:00:05,466 -operate -DEBUG -执行步骤:{'TC_ID': 'HomePage', '步骤ID': 'TS001', '步骤名称': '点击允许', '操作': 'click', '元素名称': 'Baidu', '数据': ''}
+2020-04-14 13:00:05,475 -operate -DEBUG -元素信息:{'TC_ID': 'HomePage', '元素名称': 'Baidu', '定位类型': 'id', '元素信息': 'com.android.packageinstaller:id/permission_allow_button'}
+2020-04-14 13:00:05,478 -operate -DEBUG -该关键字是:click_btn
+2020-04-14 13:00:06,204 -operate -DEBUG -执行步骤:{'TC_ID': 'HomePage', '步骤ID': 'TS002', '步骤名称': '点击允许', '操作': 'click', '元素名称': 'Baidu1', '数据': ''}
+2020-04-14 13:00:06,204 -operate -DEBUG -元素信息:{'TC_ID': 'HomePage', '元素名称': 'Baidu1', '定位类型': 'id', '元素信息': 'com.android.packageinstaller:id/permission_allow_button'}
+2020-04-14 13:00:06,205 -operate -DEBUG -该关键字是:click_btn
+2020-04-14 13:00:07,530 -operate -DEBUG -执行步骤:{'TC_ID': 'HomePage', '步骤ID': 'TS003', '步骤名称': '点击我的', '操作': 'click', '元素名称': 'Baidu2', '数据': ''}
+2020-04-14 13:00:07,530 -operate -DEBUG -元素信息:{'TC_ID': 'HomePage', '元素名称': 'Baidu2', '定位类型': 'id', '元素信息': 'com.android.packageinstaller:id/permission_allow_button'}
+2020-04-14 13:00:07,531 -operate -DEBUG -该关键字是:click_btn
+2020-04-14 13:00:08,919 -operate -DEBUG -执行步骤:{'TC_ID': 'HomePage', '步骤ID': 'TS004', '步骤名称': '搜索', '操作': 'text', '元素名称': 'Home_input', '数据': 'send'}
+2020-04-14 13:00:08,919 -operate -DEBUG -元素信息:{'TC_ID': 'HomePage', '元素名称': 'Home_input', '定位类型': 'id', '元素信息': 'com.baidu.searchbox:id/baidu_searchbox'}
+2020-04-14 13:00:08,920 -operate -DEBUG -该关键字是:send_keys
+2020-04-14 13:00:36,823 -TestKeyword -INFO -执行用例内容:{'TC_ID': 'HomePage', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': '', '描述': '首页', '备注': '首页'}
+2020-04-14 13:00:36,824 -operate -DEBUG -执行步骤:{'TC_ID': 'HomePage', '步骤ID': 'TS001', '步骤名称': '点击允许', '操作': 'click', '元素名称': 'Baidu', '数据': ''}
+2020-04-14 13:00:36,824 -operate -DEBUG -元素信息:{'TC_ID': 'HomePage', '元素名称': 'Baidu', '定位类型': 'id', '元素信息': 'com.android.packageinstaller:id/permission_allow_button'}
+2020-04-14 13:00:36,826 -operate -DEBUG -该关键字是:click_btn
+2020-04-14 13:00:37,707 -operate -DEBUG -执行步骤:{'TC_ID': 'HomePage', '步骤ID': 'TS002', '步骤名称': '点击允许', '操作': 'click', '元素名称': 'Baidu1', '数据': ''}
+2020-04-14 13:00:37,707 -operate -DEBUG -元素信息:{'TC_ID': 'HomePage', '元素名称': 'Baidu1', '定位类型': 'id', '元素信息': 'com.android.packageinstaller:id/permission_allow_button'}
+2020-04-14 13:00:37,709 -operate -DEBUG -该关键字是:click_btn
+2020-04-14 13:00:39,003 -operate -DEBUG -执行步骤:{'TC_ID': 'HomePage', '步骤ID': 'TS003', '步骤名称': '点击我的', '操作': 'click', '元素名称': 'Baidu2', '数据': ''}
+2020-04-14 13:00:39,003 -operate -DEBUG -元素信息:{'TC_ID': 'HomePage', '元素名称': 'Baidu2', '定位类型': 'id', '元素信息': 'com.android.packageinstaller:id/permission_allow_button'}
+2020-04-14 13:00:39,005 -operate -DEBUG -该关键字是:click_btn
+2020-04-14 13:00:40,400 -operate -DEBUG -执行步骤:{'TC_ID': 'HomePage', '步骤ID': 'TS004', '步骤名称': '搜索', '操作': 'text', '元素名称': 'Home_input', '数据': 'send'}
+2020-04-14 13:00:40,400 -operate -DEBUG -元素信息:{'TC_ID': 'HomePage', '元素名称': 'Home_input', '定位类型': 'id', '元素信息': 'com.baidu.searchbox:id/baidu_searchbox'}
+2020-04-14 13:00:40,402 -operate -DEBUG -该关键字是:send_keys
+2020-04-14 13:04:09,787 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'HomePage', '是否运行': 'y', '备注': '首页'}]
+2020-04-14 13:04:09,795 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[{'TC_ID': 'HomePage', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': 'appium', '描述': '首页', '备注': '首页'}]
+2020-04-14 13:04:30,801 -TestKeyword -INFO -执行用例内容:{'TC_ID': 'HomePage', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': 'appium', '描述': '首页', '备注': '首页'}
+2020-04-14 13:04:30,842 -operate -DEBUG -执行步骤:{'TC_ID': 'HomePage', '步骤ID': 'TS001', '步骤名称': '点击允许', '操作': 'click', '元素名称': 'Baidu', '数据': ''}
+2020-04-14 13:04:30,851 -operate -DEBUG -元素信息:{'TC_ID': 'HomePage', '元素名称': 'Baidu', '定位类型': 'id', '元素信息': 'com.android.packageinstaller:id/permission_allow_button'}
+2020-04-14 13:04:30,853 -operate -DEBUG -该关键字是:click_btn
+2020-04-14 13:04:31,700 -operate -DEBUG -执行步骤:{'TC_ID': 'HomePage', '步骤ID': 'TS002', '步骤名称': '点击允许', '操作': 'click', '元素名称': 'Baidu1', '数据': ''}
+2020-04-14 13:04:31,701 -operate -DEBUG -元素信息:{'TC_ID': 'HomePage', '元素名称': 'Baidu1', '定位类型': 'id', '元素信息': 'com.android.packageinstaller:id/permission_allow_button'}
+2020-04-14 13:04:31,701 -operate -DEBUG -该关键字是:click_btn
+2020-04-14 13:04:33,049 -operate -DEBUG -执行步骤:{'TC_ID': 'HomePage', '步骤ID': 'TS003', '步骤名称': '点击我的', '操作': 'click', '元素名称': 'Baidu2', '数据': ''}
+2020-04-14 13:04:33,050 -operate -DEBUG -元素信息:{'TC_ID': 'HomePage', '元素名称': 'Baidu2', '定位类型': 'id', '元素信息': 'com.android.packageinstaller:id/permission_allow_button'}
+2020-04-14 13:04:33,051 -operate -DEBUG -该关键字是:click_btn
+2020-04-14 13:04:34,499 -operate -DEBUG -执行步骤:{'TC_ID': 'HomePage', '步骤ID': 'TS004', '步骤名称': '搜索', '操作': 'text', '元素名称': 'Home_input', '数据': 'send'}
+2020-04-14 13:04:34,500 -operate -DEBUG -元素信息:{'TC_ID': 'HomePage', '元素名称': 'Home_input', '定位类型': 'id', '元素信息': 'com.baidu.searchbox:id/baidu_searchbox'}
+2020-04-14 13:04:34,501 -operate -DEBUG -该关键字是:send_keys

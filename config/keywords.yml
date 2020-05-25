@@ -1,0 +1,4 @@
+#映射
+click: "click_btn"
+text: "send_keys"
+verify_toast: "assert_toast_result"

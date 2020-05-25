@@ -1,0 +1,3 @@
+INFO     start_Appium:StartAppium.py:73 获取的udid:["b'emulator-5554"],
+INFO     start_Appium:conftest.py:27 ["b'emulator-5554"]
+INFO     start_Appium:StartAppium.py:19 prot 4723 is not used

@@ -1,0 +1,1 @@
+INFO     start_Appium:StartAppium.py:73 获取的udid:["b'emulator-5554"],

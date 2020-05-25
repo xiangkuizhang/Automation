@@ -1,0 +1,128 @@
+2020-03-30 00:46:02,881 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '登录功能测试', 'TC_ID': 'TC_Login', '是否运行': 'y', '备注': '登录功能测试'}]
+2020-03-30 00:46:02,890 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'TC_Login', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '登录失败', '测试数据': 'username=13718418220,password=123456', '期望结果': '错误'}]]
+2020-03-30 00:46:41,670 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '登录功能测试', 'TC_ID': 'TC_Login', '是否运行': 'y', '备注': '登录功能测试'}]
+2020-03-30 00:46:41,680 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'TC_Login', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '登录失败', '测试数据': 'username=13718418220,password=123456', '期望结果': '错误'}]]
+2020-03-30 03:55:43,988 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '登录功能测试', 'TC_ID': 'TC_Login', '是否运行': 'y', '备注': '登录功能测试'}]
+2020-03-30 03:55:43,999 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'TC_Login', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '登录失败', '测试数据': 'username=13718418220,password=123456', '期望结果': '错误'}]]
+2020-03-30 03:56:02,878 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '登录功能测试', 'TC_ID': 'TC_Login', '是否运行': 'y', '备注': '登录功能测试'}]
+2020-03-30 03:56:02,889 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'TC_Login', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '登录失败', '测试数据': 'username=13718418220,password=123456', '期望结果': '错误'}]]
+2020-03-30 03:57:31,507 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '登录功能测试', 'TC_ID': 'TC_Login', '是否运行': 'y', '备注': '登录功能测试'}]
+2020-03-30 03:57:31,516 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'TC_Login', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '登录失败', '测试数据': 'username=13718418220,password=123456', '期望结果': '错误'}]]
+2020-03-30 03:57:50,137 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '登录功能测试', 'TC_ID': 'TC_Login', '是否运行': 'y', '备注': '登录功能测试'}]
+2020-03-30 03:57:50,147 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'TC_Login', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '登录失败', '测试数据': 'username=13718418220,password=123456', '期望结果': '错误'}]]
+2020-03-30 03:58:42,489 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '登录功能测试', 'TC_ID': 'TC_Login', '是否运行': 'y', '备注': '登录功能测试'}]
+2020-03-30 03:58:42,498 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'TC_Login', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '登录失败', '测试数据': 'username=13718418220,password=123456', '期望结果': '错误'}]]
+2020-03-30 03:59:30,840 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '登录功能测试', 'TC_ID': 'TC_Login', '是否运行': 'y', '备注': '登录功能测试'}]
+2020-03-30 03:59:30,850 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'TC_Login', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '登录失败', '测试数据': 'username=13718418220,password=123456', '期望结果': '错误'}]]
+2020-03-30 03:59:57,245 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '登录功能测试', 'TC_ID': 'TC_Login', '是否运行': 'y', '备注': '登录功能测试'}]
+2020-03-30 03:59:57,256 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'TC_Login', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '登录失败', '测试数据': 'username=13718418220,password=123456', '期望结果': '错误'}]]
+2020-03-30 04:00:23,090 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '登录功能测试', 'TC_ID': 'TC_Login', '是否运行': 'y', '备注': '登录功能测试'}]
+2020-03-30 04:00:23,098 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'TC_Login', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '登录失败', '测试数据': 'username=13718418220,password=123456', '期望结果': '错误'}]]
+2020-03-30 04:01:08,193 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '登录功能测试', 'TC_ID': 'TC_Login', '是否运行': 'y', '备注': '登录功能测试'}]
+2020-03-30 04:01:08,202 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'TC_Login', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '登录失败', '测试数据': 'username=13718418220,password=123456', '期望结果': '错误'}]]
+2020-03-30 04:01:41,856 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '登录功能测试', 'TC_ID': 'TC_Login', '是否运行': 'y', '备注': '登录功能测试'}]
+2020-03-30 04:01:41,865 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'TC_Login', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '登录失败', '测试数据': 'username=13718418220,password=123456', '期望结果': '错误'}]]
+2020-03-30 04:03:33,034 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '登录功能测试', 'TC_ID': 'TC_Login', '是否运行': 'y', '备注': '登录功能测试'}]
+2020-03-30 04:03:33,044 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'TC_Login', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '登录失败', '测试数据': 'username=13718418220,password=123456', '期望结果': '错误'}]]
+2020-03-30 04:05:42,010 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '登录功能测试', 'TC_ID': 'TC_Login', '是否运行': 'y', '备注': '登录功能测试'}]
+2020-03-30 04:05:42,021 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'TC_Login', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '登录失败', '测试数据': 'username=13718418220,password=123456', '期望结果': '错误'}]]
+2020-03-30 04:06:03,149 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '登录功能测试', 'TC_ID': 'TC_Login', '是否运行': 'y', '备注': '登录功能测试'}]
+2020-03-30 04:06:03,159 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'TC_Login', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '登录失败', '测试数据': 'username=13718418220,password=123456', '期望结果': '错误'}]]
+2020-03-30 04:06:19,204 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '登录功能测试', 'TC_ID': 'TC_Login', '是否运行': 'y', '备注': '登录功能测试'}]
+2020-03-30 04:06:19,213 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'TC_Login', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '登录失败', '测试数据': 'username=13718418220,password=123456', '期望结果': '错误'}]]
+2020-03-30 04:07:06,898 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '登录功能测试', 'TC_ID': 'TC_Login', '是否运行': 'y', '备注': '登录功能测试'}]
+2020-03-30 04:07:06,909 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'TC_Login', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '登录失败', '测试数据': 'username=13718418220,password=123456', '期望结果': '错误'}]]
+2020-03-30 04:08:18,103 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '登录功能测试', 'TC_ID': 'TC_Login', '是否运行': 'y', '备注': '登录功能测试'}]
+2020-03-30 04:08:18,114 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'TC_Login', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '登录失败', '测试数据': 'username=13718418220,password=123456', '期望结果': '错误'}]]
+2020-03-30 04:08:29,101 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '登录功能测试', 'TC_ID': 'TC_Login', '是否运行': 'y', '备注': '登录功能测试'}]
+2020-03-30 04:08:29,112 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'TC_Login', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '登录失败', '测试数据': 'username=13718418220,password=123456', '期望结果': '错误'}]]
+2020-03-30 04:33:56,774 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '登录功能测试', 'TC_ID': 'TC_Login', '是否运行': 'y', '备注': '登录功能测试'}]
+2020-03-30 04:33:56,787 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'TC_Login', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '登录失败', '测试数据': 'username=13718418220,password=123456', '期望结果': '错误'}]]
+2020-03-30 04:36:10,989 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '登录功能测试', 'TC_ID': 'TC_Login', '是否运行': 'y', '备注': '登录功能测试'}]
+2020-03-30 04:36:11,007 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'TC_Login', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '登录失败', '测试数据': 'username=13718418220,password=123456', '期望结果': '错误'}]]
+2020-03-30 04:40:08,584 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '登录功能测试', 'TC_ID': 'TC_Login', '是否运行': 'y', '备注': '登录功能测试'}]
+2020-03-30 04:40:08,593 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'TC_Login', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '登录失败', '测试数据': 'username=13718418220,password=123456', '期望结果': '错误'}]]
+2020-03-30 04:40:24,848 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '登录功能测试', 'TC_ID': 'TC_Login', '是否运行': 'y', '备注': '登录功能测试'}]
+2020-03-30 04:40:24,857 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'TC_Login', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '登录失败', '测试数据': 'username=13718418220,password=123456', '期望结果': '错误'}]]
+2020-03-30 04:41:07,930 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '登录功能测试', 'TC_ID': 'TC_Login', '是否运行': 'y', '备注': '登录功能测试'}]
+2020-03-30 04:41:07,940 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'TC_Login', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '登录失败', '测试数据': 'username=13718418220,password=123456', '期望结果': '错误'}]]
+2020-03-30 04:41:48,125 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '登录功能测试', 'TC_ID': 'TC_Login', '是否运行': 'y', '备注': '登录功能测试'}]
+2020-03-30 04:41:48,135 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'TC_Login', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '登录失败', '测试数据': 'username=13718418220,password=123456', '期望结果': '错误'}]]
+2020-03-30 04:41:56,157 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '登录功能测试', 'TC_ID': 'TC_Login', '是否运行': 'y', '备注': '登录功能测试'}]
+2020-03-30 04:41:56,166 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'TC_Login', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '登录失败', '测试数据': 'username=13718418220,password=123456', '期望结果': '错误'}]]
+2020-03-30 04:42:54,417 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '登录功能测试', 'TC_ID': 'TC_Login', '是否运行': 'y', '备注': '登录功能测试'}]
+2020-03-30 04:42:54,427 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'TC_Login', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '登录失败', '测试数据': 'username=13718418220,password=123456', '期望结果': '错误'}]]
+2020-03-30 04:43:12,301 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '登录功能测试', 'TC_ID': 'TC_Login', '是否运行': 'y', '备注': '登录功能测试'}]
+2020-03-30 04:43:12,314 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'TC_Login', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '登录失败', '测试数据': 'username=13718418220,password=123456', '期望结果': '错误'}]]
+2020-03-30 04:43:48,397 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '登录功能测试', 'TC_ID': 'TC_Login', '是否运行': 'y', '备注': '登录功能测试'}]
+2020-03-30 04:43:48,407 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'TC_Login', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '登录失败', '测试数据': 'username=13718418220,password=123456', '期望结果': '错误'}]]
+2020-03-30 04:44:20,733 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '登录功能测试', 'TC_ID': 'TC_Login', '是否运行': 'y', '备注': '登录功能测试'}]
+2020-03-30 04:44:20,747 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'TC_Login', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '登录失败', '测试数据': 'username=13718418220,password=123456', '期望结果': '错误'}]]
+2020-03-30 05:18:42,660 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'Home_Page', '是否运行': 'y', '备注': '首页输入'}]
+2020-03-30 05:18:42,675 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'Home_Page', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': '测试'}]]
+2020-03-30 05:21:20,105 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'Home_Page', '是否运行': 'y', '备注': '首页输入'}]
+2020-03-30 05:21:20,116 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'Home_Page', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': '测试'}]]
+2020-03-30 05:22:33,438 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'Home_Page', '是否运行': 'y', '备注': '首页输入'}]
+2020-03-30 05:22:33,448 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'Home_Page', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': '测试'}]]
+2020-03-30 05:23:10,225 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'Home_Page', '是否运行': 'y', '备注': '首页输入'}]
+2020-03-30 05:23:10,241 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'Home_Page', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium,send2=selenium', '期望结果': '测试'}]]
+2020-03-30 05:23:58,632 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'Home_Page', '是否运行': 'y', '备注': '首页输入'}]
+2020-03-30 05:23:58,648 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'Home_Page', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium,send2=selenium', '期望结果': '测试'}]]
+2020-03-30 05:24:20,222 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'Home_Page', '是否运行': 'y', '备注': '首页输入'}]
+2020-03-30 05:24:20,234 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'Home_Page', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium,send2=selenium', '期望结果': '测试'}]]
+2020-03-30 05:28:54,933 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'Home_Page', '是否运行': 'y', '备注': '首页输入'}]
+2020-03-30 05:28:54,942 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'Home_Page', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': '测试'}]]
+2020-03-30 05:30:18,686 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'Home_Page', '是否运行': 'y', '备注': '首页输入'}]
+2020-03-30 05:30:18,696 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'Home_Page', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': '测试'}]]
+2020-03-30 05:31:06,023 -BasePage -ERROR -没有找到该元素Message: 
+
+2020-03-30 05:33:52,455 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'Home_Page', '是否运行': 'y', '备注': '首页输入'}]
+2020-03-30 05:33:52,466 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'Home_Page', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': '测试'}]]
+2020-03-30 05:34:39,618 -BasePage -ERROR -没有找到该元素Message: 
+
+2020-03-30 05:37:36,627 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'Home_Page', '是否运行': 'y', '备注': '首页输入'}]
+2020-03-30 05:37:36,638 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'Home_Page', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': '测试'}]]
+2020-03-30 05:37:57,068 -BasePage -ERROR -没有找到该元素Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+
+2020-03-30 05:40:15,130 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'Home_Page', '是否运行': 'y', '备注': '首页输入'}]
+2020-03-30 05:40:15,140 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'Home_Page', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': '测试'}]]
+2020-03-30 05:41:01,912 -BasePage -ERROR -没有找到该元素Message: 
+
+2020-03-30 05:47:15,213 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'Home_Page', '是否运行': 'y', '备注': '首页输入'}]
+2020-03-30 05:47:15,225 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'Home_Page', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': '测试'}]]
+2020-03-30 05:48:02,698 -BasePage -ERROR -没有找到该元素Message: 
+
+2020-03-30 05:52:25,705 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'Home_Page', '是否运行': 'y', '备注': '首页输入'}]
+2020-03-30 05:52:25,719 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'Home_Page', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': '测试'}]]
+2020-03-30 05:53:13,692 -BasePage -ERROR -没有找到该元素Message: 
+
+2020-03-30 06:21:02,722 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'Home_Page', '是否运行': 'y', '备注': '首页输入'}]
+2020-03-30 06:21:02,740 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'Home_Page', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': '测试'}]]
+2020-03-30 06:21:42,997 -BasePage -ERROR -没有找到该元素Message: 
+
+2020-03-30 06:25:38,200 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'Home_Page', '是否运行': 'y', '备注': '首页输入'}]
+2020-03-30 06:25:38,210 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'Home_Page', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': '测试'}]]
+2020-03-30 06:26:24,705 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'Home_Page', '是否运行': 'y', '备注': '首页输入'}]
+2020-03-30 06:26:24,719 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'Home_Page', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': '测试'}]]
+2020-03-30 06:27:05,037 -BasePage -ERROR -没有找到该元素Message: 
+
+2020-03-30 06:30:42,196 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'Home_Page', '是否运行': 'y', '备注': '首页输入'}]
+2020-03-30 06:30:42,206 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'Home_Page', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': '测试'}]]
+2020-03-30 06:31:22,642 -BasePage -ERROR -没有找到该元素Message: 
+
+2020-03-30 06:43:12,028 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'Home_Page', '是否运行': 'y', '备注': '首页输入'}]
+2020-03-30 06:43:12,041 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'Home_Page', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': '测试'}]]
+2020-03-30 06:43:52,073 -BasePage -ERROR -没有找到该元素Message: 
+
+2020-03-30 06:48:09,669 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'Home_Page', '是否运行': 'y', '备注': '首页输入'}]
+2020-03-30 06:48:09,679 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'Home_Page', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': '测试'}]]
+2020-03-30 06:48:54,064 -BasePage -ERROR -没有找到该元素Message: 
+
+2020-03-30 07:48:24,340 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'Home_Page', '是否运行': 'y', '备注': '首页输入'}]
+2020-03-30 07:48:24,350 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'Home_Page', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': '测试'}]]
+2020-03-30 07:49:14,679 -BasePage -ERROR -没有找到该元素Message: 
+
+2020-03-30 07:53:28,484 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'Home_Page', '是否运行': 'y', '备注': '首页输入'}]
+2020-03-30 07:53:28,499 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'Home_Page', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': '测试'}]]
+2020-03-30 08:09:11,814 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'Home_Page', '是否运行': 'y', '备注': '首页输入'}]
+2020-03-30 08:09:11,830 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[[{'TC_ID': 'Home_Page', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': '测试'}]]

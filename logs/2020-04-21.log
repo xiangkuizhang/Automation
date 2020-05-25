@@ -1,0 +1,123 @@
+2020-04-21 01:29:56,728 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'HomePage', '是否运行': 'y', '备注': '首页'}]
+2020-04-21 01:29:56,737 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[{'TC_ID': 'HomePage', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': 'appium', '描述': '首页', '备注': '首页'}]
+2020-04-21 01:29:56,771 -start_Appium -INFO -获取的udid:["b'emulator-5554"],
+2020-04-21 01:29:56,835 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址:/Users/zhangxiangkui/Downloads/AutomationTest/report/result
+2020-04-21 01:29:56,839 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址：/Users/zhangxiangkui/Downloads/AutomationTest/report/html
+2020-04-21 01:33:12,786 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'HomePage', '是否运行': 'y', '备注': '首页'}]
+2020-04-21 01:33:12,797 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[{'TC_ID': 'HomePage', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': 'appium', '描述': '首页', '备注': '首页'}]
+2020-04-21 01:33:12,826 -start_Appium -INFO -获取的udid:["b'emulator-5554"],
+2020-04-21 01:33:12,826 -start_Appium -INFO -["b'emulator-5554"]
+2020-04-21 01:33:12,836 -start_Appium -INFO -获取的udid:["b'emulator-5554"],
+2020-04-21 01:33:12,893 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址:/Users/zhangxiangkui/Downloads/AutomationTest/report/result
+2020-04-21 01:33:12,897 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址：/Users/zhangxiangkui/Downloads/AutomationTest/report/html
+2020-04-21 01:34:43,537 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'HomePage', '是否运行': 'y', '备注': '首页'}]
+2020-04-21 01:34:43,545 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[{'TC_ID': 'HomePage', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': 'appium', '描述': '首页', '备注': '首页'}]
+2020-04-21 01:34:43,573 -start_Appium -INFO -获取的udid:["b'emulator-5554"],
+2020-04-21 01:34:43,574 -start_Appium -INFO -["b'emulator-5554"]
+2020-04-21 01:34:43,583 -start_Appium -INFO -获取的udid:["b'emulator-5554"],
+2020-04-21 01:34:43,640 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址:/Users/zhangxiangkui/Downloads/AutomationTest/report/result
+2020-04-21 01:34:43,644 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址：/Users/zhangxiangkui/Downloads/AutomationTest/report/html
+2020-04-21 01:41:31,710 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'HomePage', '是否运行': 'y', '备注': '首页'}]
+2020-04-21 01:41:31,722 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[{'TC_ID': 'HomePage', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': 'appium', '描述': '首页', '备注': '首页'}]
+2020-04-21 01:41:31,753 -start_Appium -INFO -获取的udid:["b'emulator-5554"],
+2020-04-21 01:41:31,754 -start_Appium -INFO -["b'emulator-5554"]
+2020-04-21 01:41:31,754 -start_Appium -INFO -prot 4723 is not used
+2020-04-21 01:41:31,814 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址:/Users/zhangxiangkui/Downloads/AutomationTest/report/result
+2020-04-21 01:41:31,818 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址：/Users/zhangxiangkui/Downloads/AutomationTest/report/html
+2020-04-21 01:46:36,108 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'HomePage', '是否运行': 'y', '备注': '首页'}]
+2020-04-21 01:46:36,119 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[{'TC_ID': 'HomePage', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': 'appium', '描述': '首页', '备注': '首页'}]
+2020-04-21 01:46:36,146 -start_Appium -INFO -获取的udid:["b'emulator-5554"],
+2020-04-21 01:46:36,146 -start_Appium -INFO -["b'emulator-5554"]
+2020-04-21 01:46:36,146 -start_Appium -INFO -prot 4723 is not used
+2020-04-21 01:46:36,201 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址:/Users/zhangxiangkui/Downloads/AutomationTest/report/result
+2020-04-21 01:46:36,204 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址：/Users/zhangxiangkui/Downloads/AutomationTest/report/html
+2020-04-21 01:48:19,581 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'HomePage', '是否运行': 'y', '备注': '首页'}]
+2020-04-21 01:48:19,589 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[{'TC_ID': 'HomePage', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': 'appium', '描述': '首页', '备注': '首页'}]
+2020-04-21 01:48:19,621 -start_Appium -INFO -获取的udid:["b'emulator-5554"],
+2020-04-21 01:48:19,630 -start_Appium -INFO -获取的udid:["b'emulator-5554"],
+2020-04-21 01:48:19,691 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址:/Users/zhangxiangkui/Downloads/AutomationTest/report/result
+2020-04-21 01:48:19,696 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址：/Users/zhangxiangkui/Downloads/AutomationTest/report/html
+2020-04-21 01:50:31,564 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'HomePage', '是否运行': 'y', '备注': '首页'}]
+2020-04-21 01:50:31,572 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[{'TC_ID': 'HomePage', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': 'appium', '描述': '首页', '备注': '首页'}]
+2020-04-21 01:50:31,602 -start_Appium -INFO -获取的udid:["b'emulator-5554"],
+2020-04-21 01:50:31,659 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址:/Users/zhangxiangkui/Downloads/AutomationTest/report/result
+2020-04-21 01:50:31,663 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址：/Users/zhangxiangkui/Downloads/AutomationTest/report/html
+2020-04-21 01:50:58,092 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'HomePage', '是否运行': 'y', '备注': '首页'}]
+2020-04-21 01:50:58,102 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[{'TC_ID': 'HomePage', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': 'appium', '描述': '首页', '备注': '首页'}]
+2020-04-21 01:50:58,136 -start_Appium -INFO -获取的udid:["b'emulator-5554"],
+2020-04-21 01:50:58,200 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址:/Users/zhangxiangkui/Downloads/AutomationTest/report/result
+2020-04-21 01:50:58,204 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址：/Users/zhangxiangkui/Downloads/AutomationTest/report/html
+2020-04-21 01:52:26,618 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'HomePage', '是否运行': 'y', '备注': '首页'}]
+2020-04-21 01:52:26,628 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[{'TC_ID': 'HomePage', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': 'appium', '描述': '首页', '备注': '首页'}]
+2020-04-21 01:52:26,714 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址:/Users/zhangxiangkui/Downloads/AutomationTest/report/result
+2020-04-21 01:52:26,719 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址：/Users/zhangxiangkui/Downloads/AutomationTest/report/html
+2020-04-21 01:52:42,843 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'HomePage', '是否运行': 'y', '备注': '首页'}]
+2020-04-21 01:52:42,868 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[{'TC_ID': 'HomePage', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': 'appium', '描述': '首页', '备注': '首页'}]
+2020-04-21 01:52:42,897 -start_Appium -INFO -获取的udid:["b'emulator-5554"],
+2020-04-21 01:52:42,955 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址:/Users/zhangxiangkui/Downloads/AutomationTest/report/result
+2020-04-21 01:52:42,959 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址：/Users/zhangxiangkui/Downloads/AutomationTest/report/html
+2020-04-21 01:53:04,804 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'HomePage', '是否运行': 'y', '备注': '首页'}]
+2020-04-21 01:53:04,812 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[{'TC_ID': 'HomePage', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': 'appium', '描述': '首页', '备注': '首页'}]
+2020-04-21 01:53:04,841 -start_Appium -INFO -获取的udid:["b'emulator-5554"],
+2020-04-21 01:53:04,898 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址:/Users/zhangxiangkui/Downloads/AutomationTest/report/result
+2020-04-21 01:53:04,902 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址：/Users/zhangxiangkui/Downloads/AutomationTest/report/html
+2020-04-21 01:53:31,540 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址:/Users/zhangxiangkui/Downloads/AutomationTest/report/result
+2020-04-21 01:53:31,551 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址：/Users/zhangxiangkui/Downloads/AutomationTest/report/html
+2020-04-21 01:53:38,969 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'HomePage', '是否运行': 'y', '备注': '首页'}]
+2020-04-21 01:53:38,979 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[{'TC_ID': 'HomePage', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': 'appium', '描述': '首页', '备注': '首页'}]
+2020-04-21 01:53:39,011 -start_Appium -INFO -获取的udid:["b'emulator-5554"],
+2020-04-21 01:53:39,079 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址:/Users/zhangxiangkui/Downloads/AutomationTest/report/result
+2020-04-21 01:53:39,083 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址：/Users/zhangxiangkui/Downloads/AutomationTest/report/html
+2020-04-21 01:53:52,828 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'HomePage', '是否运行': 'y', '备注': '首页'}]
+2020-04-21 01:53:52,852 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[{'TC_ID': 'HomePage', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': 'appium', '描述': '首页', '备注': '首页'}]
+2020-04-21 01:53:52,886 -start_Appium -INFO -获取的udid:["b'emulator-5554"],
+2020-04-21 01:53:52,953 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址:/Users/zhangxiangkui/Downloads/AutomationTest/report/result
+2020-04-21 01:53:52,957 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址：/Users/zhangxiangkui/Downloads/AutomationTest/report/html
+2020-04-21 01:54:46,755 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'HomePage', '是否运行': 'y', '备注': '首页'}]
+2020-04-21 01:54:46,766 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[{'TC_ID': 'HomePage', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': 'appium', '描述': '首页', '备注': '首页'}]
+2020-04-21 01:54:46,799 -start_Appium -INFO -获取的udid:["b'emulator-5554"],
+2020-04-21 01:54:46,855 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址:/Users/zhangxiangkui/Downloads/AutomationTest/report/result
+2020-04-21 01:54:46,859 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址：/Users/zhangxiangkui/Downloads/AutomationTest/report/html
+2020-04-21 01:55:09,401 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'HomePage', '是否运行': 'y', '备注': '首页'}]
+2020-04-21 01:55:09,412 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[{'TC_ID': 'HomePage', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': 'appium', '描述': '首页', '备注': '首页'}]
+2020-04-21 01:55:09,445 -start_Appium -INFO -获取的udid:["b'emulator-5554"],
+2020-04-21 01:55:09,510 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址:/Users/zhangxiangkui/Downloads/AutomationTest/report/result
+2020-04-21 01:55:09,514 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址：/Users/zhangxiangkui/Downloads/AutomationTest/report/html
+2020-04-21 01:55:31,528 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'HomePage', '是否运行': 'y', '备注': '首页'}]
+2020-04-21 01:55:31,543 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[{'TC_ID': 'HomePage', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': 'appium', '描述': '首页', '备注': '首页'}]
+2020-04-21 01:55:31,573 -start_Appium -INFO -获取的udid:["b'emulator-5554"],
+2020-04-21 01:55:31,574 -start_Appium -INFO -prot 4723 is not used
+2020-04-21 01:55:33,707 -start_Appium -INFO -启动成功，启动参数：host为127.0.0.1,port为4723,bpport为4724,udid为emulator-5554
+2020-04-21 01:55:38,711 -start_Appium -INFO -port 4723 is used
+2020-04-21 01:56:04,651 -TestKeyword -INFO -<appium.webdriver.webdriver.WebDriver (session="42a6cbf3-16d3-4b46-befb-afab73315b24")>
+2020-04-21 01:56:04,651 -TestKeyword -INFO -执行用例内容:{'TC_ID': 'HomePage', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': 'appium', '描述': '首页', '备注': '首页'}
+2020-04-21 01:56:05,565 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址:/Users/zhangxiangkui/Downloads/AutomationTest/report/result
+2020-04-21 01:56:05,570 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址：/Users/zhangxiangkui/Downloads/AutomationTest/report/html
+2020-04-21 01:57:14,591 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'HomePage', '是否运行': 'y', '备注': '首页'}]
+2020-04-21 01:57:14,599 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[{'TC_ID': 'HomePage', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': 'appium', '描述': '首页', '备注': '首页'}]
+2020-04-21 01:57:14,626 -start_Appium -INFO -获取的udid:["b'emulator-5554"],
+2020-04-21 01:57:14,627 -start_Appium -INFO -prot 4723 is not used
+2020-04-21 01:57:16,021 -start_Appium -INFO -启动成功，启动参数：host为127.0.0.1,port为4723,bpport为4724,udid为emulator-5554
+2020-04-21 01:57:21,026 -start_Appium -INFO -port 4723 is used
+2020-04-21 01:58:11,584 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址:/Users/zhangxiangkui/Downloads/AutomationTest/report/result
+2020-04-21 01:58:11,588 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址：/Users/zhangxiangkui/Downloads/AutomationTest/report/html
+2020-04-21 02:14:36,305 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'HomePage', '是否运行': 'y', '备注': '首页'}]
+2020-04-21 02:14:36,319 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[{'TC_ID': 'HomePage', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': 'appium', '描述': '首页', '备注': '首页'}]
+2020-04-21 02:14:36,348 -start_Appium -INFO -获取的udid:[],
+2020-04-21 02:15:59,033 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'HomePage', '是否运行': 'y', '备注': '首页'}]
+2020-04-21 02:15:59,042 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[{'TC_ID': 'HomePage', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': 'appium', '描述': '首页', '备注': '首页'}]
+2020-04-21 02:15:59,069 -start_Appium -INFO -获取的udid:[],
+2020-04-21 02:15:59,127 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址:/Users/zhangxiangkui/Downloads/AutomationTest/report/result
+2020-04-21 02:15:59,131 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址：/Users/zhangxiangkui/Downloads/AutomationTest/report/html
+2020-04-21 02:25:57,104 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'HomePage', '是否运行': 'y', '备注': '首页'}]
+2020-04-21 02:25:57,113 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[{'TC_ID': 'HomePage', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': 'appium', '描述': '首页', '备注': '首页'}]
+2020-04-21 02:25:57,187 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址:/Users/zhangxiangkui/Downloads/AutomationTest/report/result
+2020-04-21 02:25:57,191 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址：/Users/zhangxiangkui/Downloads/AutomationTest/report/html
+2020-04-21 02:26:04,833 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'HomePage', '是否运行': 'y', '备注': '首页'}]
+2020-04-21 02:26:04,841 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[{'TC_ID': 'HomePage', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': 'appium', '描述': '首页', '备注': '首页'}]
+2020-04-21 02:26:04,911 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址:/Users/zhangxiangkui/Downloads/AutomationTest/report/result
+2020-04-21 02:26:04,915 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址：/Users/zhangxiangkui/Downloads/AutomationTest/report/html
+2020-04-21 02:26:20,635 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取TestCase表测试的个数1,数据内容[{'序号': 1.0, '描述': '首页', 'TC_ID': 'HomePage', '是否运行': 'y', '备注': '首页'}]
+2020-04-21 02:26:20,644 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -DEBUG -获取CaseData运行的个数1,数据内容[{'TC_ID': 'HomePage', 'CASE_ID': 'Case_001', '是否运行': 'y', '用例名称': '输入', '测试数据': 'send=appium', '期望结果': 'appium', '描述': '首页', '备注': '首页'}]
+2020-04-21 02:26:20,715 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址:/Users/zhangxiangkui/Downloads/AutomationTest/report/result
+2020-04-21 02:26:20,719 -/Users/zhangxiangkui/Downloads/AutomationTest/utils/LogUtil.py -INFO -报告地址：/Users/zhangxiangkui/Downloads/AutomationTest/report/html
